@@ -6,4 +6,4 @@ password: anything
 conclusion: It will comment down name (password) . so without password you can get info of user.
 
 
-
+http://127.0.0.1:5000/product/home
